@@ -1,7 +1,7 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-BrainMetShare-FLAIR (2026/09/22)</h2>
 Sarah T. Arai<br>
 Software Laboratory antillia.com <br><br>
-This is the first experiment in Image Segmentation for <b>Brain Metastases</b>
+This is the second experiment in Image Segmentation for <b>Brain Metastases</b>
 our <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">TensorFlowFlexUNet Model</a>
  (<b>TensorFlow Flexible UNet Image Segmentation Model for Multiclass</b>) and a 256x256-pixel PNG
  <a href="https://drive.google.com/file/d/1mvjlaAMHIkLQwwl2yBeACJu11fJKqiDp/view?usp=sharing">
